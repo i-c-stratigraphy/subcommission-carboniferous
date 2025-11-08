@@ -2,7 +2,7 @@ title: Subcommission on Carboniferous Stratigraphy
 email: nick@kurrawong.net
 description: >-
   The small website for the Carboniferous subcommission of the International Commission on Stratigraphy, online at <http://carboniferous.stratigraphy.org>.
-baseurl: "subcommission-carboniferous"
+baseurl: "/subcommission-carboniferous"
 url: ""
 twitter_username: jekyllrb
 github_username:  jekyll
