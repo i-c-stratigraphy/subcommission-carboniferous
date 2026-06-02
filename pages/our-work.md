@@ -10,9 +10,9 @@ permalink: /our-work
 
 The SCCS is responsible for:
 
-* Defining, refining, and maintaining the global stratigraphic framework for the Carboniferous Period (358.9–298.9 Ma).
+* Defining, refining, and maintaining the global chronostratigraphic framework for the Carboniferous Period (358.9–298.9 Ma).
 * Establishing Global Boundary Stratotype Sections and Points (GSSPs) — also known as “golden spikes” — which formally mark the boundaries between stages and series of the Carboniferous.
-* Coordinating international research on Carboniferous stratigraphy, paleontology, sedimentology, and related topics.
+* Coordinating international chronostratigraphic research which impinges on studies of, paleobiology, sedimentology, paleoclimatology, earth systems science and related topics which require detailed Carboniferous timescales.
 * Publishing and standardizing chronostratigraphic charts and nomenclature for global consistency.
 
 ## Structure
@@ -25,11 +25,11 @@ The SCCS includes:
 
 ## Challenges, ongoing tasks and outlook
 
-Although the SCCS has achieved many of its primary goals, there remain ongoing tasks:
+Although the SCCS has achieved some of its primary goals, there remain ongoing tasks:
 
 * Four stage boundaries still require GSSPs. 
 * Integration of non-marine and marine successions remains a challenge, but this is the base for any successful application of Carboniferous stratigraphy in various facies realms of the different palaeocontinents
 * Maintenance of an up-to-date digital presence and documentation (website, newsletters, annual reports) 
-* Ensuring global geographic coverage in membership, and ensuring that stratigraphic standards apply equally across different continents and palaeogeographic domains.
+* Ensuring global geographic coverage in membership, and ensuring that chronostratigraphic standards apply equally across different continents and palaeogeographic domains.
 * Facilitating communication on the Carboniferous including organization of conference sessions, workshops and the international congress on the Carboniferous and Permian that is held every 4 years - see [Meetings](/meetings)
 * Providing an inclusive and diverse community that facilitates research aspirations at all career stages.

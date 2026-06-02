@@ -6,4 +6,4 @@ permalink: /newsletters
 
 # Newsletters
 
-_coming_
+1980 – 2018 on current website; add the few missing ones

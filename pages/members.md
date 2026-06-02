@@ -44,7 +44,7 @@ since 2025;
 
 ## Voting Members
 
-**Silvia Blanco Ferrera**, Universidad de Oviedo, Spain; conodonts; since 2024;  <https://dptogeol.uniovi.es/docencia/doctorado/biogeociencias/profesorado/-/asset_publisher/dbLX9k7dAqQq/content/blanco-ferrera-silvia>
+**Silvia Blanco Ferrera**, Universidad de Oviedo, Spain; conodonts; since 2024;  <https://portalinvestigacion.uniovi.es/investigadores/216823/detalle>
 
 **Pedro Cózar**, Instituto de Geociencias CSIC-UCM, Spain; foraminifers; since 2016; <https://igeo.ucm-csic.es/directorio/?dir=1&name_directory_startswith=C>
 
@@ -54,7 +54,7 @@ since 2025;
 
 **Keyi Hu**, Nanjing University, China; conodonts; since 2020; <https://es.nju.edu.cn/hky_en/list.htm>
 
-**Tomas Kumpan**, Masaryk University, Czech Republic; conodonts, chemostratigraphy, petrophysical measurements; since 2020; <https://www.muni.cz/en/people/175438-tomas-kumpan>
+**Tomáš Kumpan**, Masaryk University, Czech Republic; conodonts, chemostratigraphy, petrophysics; since 2020; <https://www.muni.cz/en/people/175438-tomas-kumpan>
 
 **Spencer G. Lucas**, New Mexico Museum of Natural History and Science, USA; non-marine vertebrates; since 2016; <https://www.nmnaturalhistory.org/paleontology-curators/spencer-g-lucas-ph-d>
 
@@ -62,11 +62,11 @@ since 2025;
 
 **Svetlana V. Nikolaeva**, The Natural History Museum, United Kingdom; ammonoids; since 2024 (Vice-Chair 2016-2024);
 
-**Markus Pracht**, Geological Survey Ireland, Ireland; lithostratigraphy and stratigraphic nomenclature; since 2024; <https://www.gsi.ie/en-ie/more-on-us/contact-us/Pages/default.aspx>
+**Markus Pracht**, Geological Survey Ireland, Ireland; lithostratigraphy and stratigraphic nomenclature; since 2024; <https://www.gsi.ie/en-ie/more-on-us/contact-us/Pages/default.aspx#>
 
 **Wenkun Qie**, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, 39 East Beijing Road, Nanjing 210008, China; conodonts; since 2020 (Secretary 2016-2020); <http://english.nigpas.cas.cn/sourcedb/yjy/201211/t20121128_644269.html>
 
-**Martin	Salamon**, Geologischer Dienst NRW, Germany; lithostratigraphy and stratigraphic nomenclature; since 2024; <https://www.gd.nrw.de/gd_organigramm.htm>
+**Martin Salamon**, Geologischer Dienst NRW, Germany; lithostratigraphy and stratigraphic nomenclature; since 2024; <https://www.gd.nrw.de/gd_organigramm.htm>
 
 **Yukun Shi**, since 2024; Nanjing University, China; foraminifers; <https://es.nju.edu.cn/syk_en/list.htm>
 

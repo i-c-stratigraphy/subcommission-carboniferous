@@ -6,7 +6,7 @@ permalink: /gssps
 
 # GSSPs
 
-Nevertheless, it is the aim of SCCS to make significant progress over the next years to achieve the definition of the missing GSSPs! It must be highlighted that also candidates for boundary criteria or sections have been used and discussed by working groups, those remain only work hypotheses and cannot be used before official ratification by SCCS and ICS. 
+Nevertheless, it is the aim of SCCS to make significant progress over the next years to achieve the definition of the missing GSSPs! It must be highlighted that also candidates for boundary criteria or sections have been used and discussed by working groups, those remain only working hypotheses and cannot be used before official ratification by SCCS and ICS. 
 
 <style>
     #gsspstbl {
@@ -70,7 +70,7 @@ Nevertheless, it is the aim of SCCS to make significant progress over the next y
             <td style="background-color:#8CB06C;"><a href="http://stratigraphy.org/gssps/tournaisian">Tournaisian Stage</a></td>
             <td>La Serre section, Montagne Noire, France</td>
             <td>Conodont FAD of <em>Siphonodella sulcata</em></td>
-            <td>Ratified 1989 ; redefinition anticipated for 2027 </td>
+            <td>Ratified 1989; redefinition anticipated for 2027 </td>
         </tr>
     </tbody>
 </table>
