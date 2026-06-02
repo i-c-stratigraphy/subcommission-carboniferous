@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-## About the SCS
+# About the SCS
 
 The Carboniferous is a geologic Period and System that extends from the end of the Devonian Period, about 358.9 Ma, to the beginning of the Permian Period, about 298.9 Ma. The Carboniferous System has been subdivided into two subsystems, the Mississippian and the Pennsylvanian, and contains seven stages. 
 The Carboniferous world has seen important changes in the geosphere, biosphere and climate evolution. To name just a few of those events:  

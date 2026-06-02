@@ -153,6 +153,42 @@
             width: 100%;
             display: block;
         }
+
+        #banner-home {
+          background-image: url('/images/banner-01.jpg');
+        }
+
+        #banner-our-work {
+          background-image: url('/images/2 Our Work.jpg');
+        }
+
+        #banner-members {
+          background-image: url('/images/3 Members.png');
+        }
+
+        #banner-working-groups {
+          background-image: url('/images/4 Working Groups.jpg');
+        }
+
+        #banner-gssps {
+          background-image: url('/images/5 GSSPs.jpg');
+        }
+
+        #banner-newsletters {
+          background-image: url('/images/6 Newsletters.png');
+        }
+
+        #banner-meetings {
+          background-image: url('/images/7 Meetings.jpg');
+        }
+
+        #banner-history {
+          background-image: url('/images/8 History.png');
+        }
+
+        #banner-resources {
+          background-image: url('/images/9 Resources.jpg');
+        }
     </style>
 </head>
 <body>
@@ -167,7 +203,7 @@
                 </div>
             </div>
         </div>
-        <div id="banner"></div>
+        <div id="banner-{{ page.slug | default: page.title | slugify }}" style="min-height:295px;"></div>
         <!--<div id="subcomm-age">&nbsp;</div>-->
         <div id="body-grid">
             <div id="sidebar" style="grid-column: 1;">
